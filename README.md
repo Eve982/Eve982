@@ -1,11 +1,8 @@
-- 👋 Hi, I’m junior Frontend-developer
-- 👀 I’m interested with programming
-- 🌱 I’m currently learning JavaScript
+<h4 align="center"><img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32"> Hi, I’m junior Frontend-developer</h4>
+<h5 align="center">👀 I’m interested with programming</h5>
+<h5 align="center">🌱 I’m currently learning JavaScript</h5>
+<h5 align="center">My contacts:</h5>
+<h6 align="center">- 📫 eve982@yandex.ru</h5>
+<h6 align="center">- 📫 Telegram eve982</h5>
+<h5 align="center">- Krasnodar, Russia</h5>
 <!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 eve982@yandex.ru
-- 📫 Telegram eve982
-- Krasnodar, Russia
-<!---
-Eve982/Eve982 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m junior Frontend-developer
-- 👀 I’m interested in programming
+- 👀 I’m interested with programming
 - 🌱 I’m currently learning JavaScript
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 eve982@yandex.ru

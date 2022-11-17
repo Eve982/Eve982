@@ -5,6 +5,7 @@
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=Plastic&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=Plastic&logo=python&logoColor=ffdd54)
+
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=Plastic&logo=eslint&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=Plastic&logo=webpack&logoColor=black)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=Plastic&logo=babel&logoColor=black)
@@ -30,8 +31,8 @@
 <!-- ![Pug](https://img.shields.io/badge/Pug-FFF?style=Plastic&logo=pug&logoColor=A86454) -->
 
 ### My contacts:
-<p><img src="https://img.icons8.com/stickers/100/null/mail.png" align="bottom" width="20" height="20"/> e-mail: eve982@yandex.ru</p>
-<p><img src="https://img.icons8.com/color/48/null/telegram-app--v5.png" align="bottom" width="20" height="20"/> telegram: @eve982</p>
+<p><img src="https://img.icons8.com/stickers/100/null/mail.png" width="20" height="20"/> eve982@yandex.ru</p>
+<p><img src="https://img.icons8.com/color/48/null/telegram-app--v5.png" width="20" height="20"/> @eve982</p>
 <p>🏠 Krasnodar, Russia</p>
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
@@ -41,8 +42,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eve982&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eve982&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eve982&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eve982&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eve982&theme=solarized_dark)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eve982&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eve982&theme=solarized_dark) -->
 
 ![codewars](https://www.codewars.com/users/eve982/badges/micro)
 

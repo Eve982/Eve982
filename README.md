@@ -8,4 +8,4 @@
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eve982&layout=compact&hide=shell,procfile&show_icons=true&theme=gruvbox_light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eve982&layout=compact&hide=shell,procfile&show_icons=true&theme=solarized-light)

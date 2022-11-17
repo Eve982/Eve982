@@ -6,5 +6,7 @@
 <h6 align="center">- 📫 Telegram eve982</h5>
 <h5 align="center">- Krasnodar, Russia</h5>
 <!-- - 💞️ I’m looking to collaborate on ... -->
-+ ![ Top langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=Eve982&layout=compact&theme=nord&card_width=214)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiEve982)](https://github.com/anuraghazra/github-readme-stats)
 

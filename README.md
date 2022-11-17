@@ -1,5 +1,6 @@
 
-### Hi, I’m junior Fullstack-developer from Krasnodar, Russia
+<h2 style="text-align: center">Hello there! My name is Olga :)</h2>
+### I’m junior Fullstack-developer from Krasnodar, Russia
 ### 👀 I’m interested with programming
 ### 🌱 I’m currently learning JavaScript and Python
 ### My contacts:

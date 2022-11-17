@@ -2,8 +2,7 @@
 <h2 align="center">Hello there! My name is Olga :)</h2>
 
 ### I’m junior Fullstack-developer
-### 👀 I’m really interested with programming
-### 🌱 I’m currently programming on JavaScript and Python
+### 👀 I’m currently programming on JavaScript and Python
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=Plastic&logo=javascript&logoColor=%23F7DF1E)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=Plastic&logo=eslint&logoColor=white)
@@ -38,5 +37,6 @@
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eve982&layout=compact&hide=shell,procfile&show_icons=true&theme=graywhite)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eve982&repo=github-readme-stats)]
 
 ![](https://komarev.com/ghpvc/?username=eve982)

@@ -38,6 +38,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eve982&layout=compact&hide=shell,procfile&show_icons=true&theme=graywhite)
 
-[![codewars](https://www.codewars.com/users/eve982/badges/micro)]
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eve982&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eve982&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eve982&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eve982&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eve982&theme=solarized_dark)
+
+![codewars](https://www.codewars.com/users/eve982/badges/micro)
 
 ![](https://komarev.com/ghpvc/?username=eve982)

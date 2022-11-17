@@ -33,10 +33,11 @@
 ### My contacts:
 #### - 📫 eve982@yandex.ru
 #### - 📫 Telegram eve982
-#### 🌱 Krasnodar, Russia
+#### 🏠 Krasnodar, Russia
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eve982&layout=compact&hide=shell,procfile&show_icons=true&theme=graywhite)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eve982&repo=github-readme-stats)]
+
+[![codewars](https://www.codewars.com/users/eve982/badges/micro)]
 
 ![](https://komarev.com/ghpvc/?username=eve982)

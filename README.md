@@ -30,8 +30,8 @@
 <!-- ![Pug](https://img.shields.io/badge/Pug-FFF?style=Plastic&logo=pug&logoColor=A86454) -->
 
 ### My contacts:
-<p><img src="https://img.icons8.com/stickers/100/null/mail.png"/>e-mail: eve982@yandex.ru</p>
-<p><img src="https://img.icons8.com/color/48/null/telegram-app--v5.png"/>telegram: @eve982</p>
+<p><img src="https://img.icons8.com/stickers/100/null/mail.png" width="15" height="15"/>e-mail: eve982@yandex.ru</p>
+<p><img src="https://img.icons8.com/color/48/null/telegram-app--v5.png" width="15" height="15"/>telegram: @eve982</p>
 <p>🏠 Krasnodar, Russia</p>
 <!-- - 💞️ I’m looking to collaborate on ... -->
 

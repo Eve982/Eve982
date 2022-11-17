@@ -8,5 +8,5 @@
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiEve982)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?eve982)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -2,6 +2,8 @@
 <h2 align="center">Hello there! My name is Olga :)</h2>
 
 ### I’m junior Fullstack-developer
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
 ### 👀 I’m currently programming on JavaScript and Python
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=Plastic&logo=javascript&logoColor=%23F7DF1E)
@@ -36,7 +38,8 @@
 #### 🏠 Krasnodar, Russia
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eve982&layout=compact&hide=shell,procfile&show_icons=true&theme=graywhite)
+![trophy](https://github-profile-trophy.vercel.app/?username=eve982)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eve982&layout=compact&hide=shell,procfile&show_icons=true&theme=graywhite) -->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eve982&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eve982&theme=solarized_dark)

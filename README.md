@@ -3,7 +3,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I’m junior Fullstack-developer</h3>
 
-### Langueges and Tool
+### Languages and Tool:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=Plastic&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=Plastic&logo=python&logoColor=ffdd54)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=Plastic&logo=eslint&logoColor=white)
@@ -31,9 +31,9 @@
 <!-- ![Pug](https://img.shields.io/badge/Pug-FFF?style=Plastic&logo=pug&logoColor=A86454) -->
 
 ### My contacts:
-#### - 📫 eve982@yandex.ru
-#### <img src="https://icons8.ru/icon/oWiuH0jFiU0R/телеграмма-app"> Telegram eve982
-#### 🏠 Krasnodar, Russia
+<p>📫 eve982@yandex.ru</p>
+<p><img src="https://icons8.ru/icon/oWiuH0jFiU0R/телеграмма-app"> Telegram eve982</p>
+<p>🏠 Krasnodar, Russia</p>
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=eve982) -->

@@ -1,5 +1,5 @@
 
-<h2 style="text-align: center">Hello there! My name is Olga :)</h2>
+<h2 style="align: center">Hello there! My name is Olga :)</h2>
 
 ### I’m junior Fullstack-developer from Krasnodar, Russia
 ### 👀 I’m interested with programming

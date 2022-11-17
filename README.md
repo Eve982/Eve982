@@ -1,8 +1,7 @@
 
-<h2 align="center">Hello there! My name is Olga :)</h2>
+<h2 align="center">Hello there!<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>My name is Olga :)</h2>
 
 ### I’m junior Fullstack-developer
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ### 👀 I’m currently programming on JavaScript and Python
 
@@ -38,7 +37,7 @@
 #### 🏠 Krasnodar, Russia
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
-![trophy](https://github-profile-trophy.vercel.app/?username=eve982)
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=eve982) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eve982&layout=compact&hide=shell,procfile&show_icons=true&theme=graywhite) -->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eve982&theme=solarized_dark)

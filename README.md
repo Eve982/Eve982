@@ -1,11 +1,11 @@
 
-<h2 align="center">Hello there!<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>My name is Olga :)</h2>
+<h1 align="center">Hi there, I'm Olga</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">I’m junior Fullstack-developer</h3>
 
-### I’m junior Fullstack-developer
-
-### 👀 I’m currently programming on JavaScript and Python
-
+### Langueges and Tool
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=Plastic&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=Plastic&logo=python&logoColor=ffdd54)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=Plastic&logo=eslint&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=Plastic&logo=webpack&logoColor=black)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=Plastic&logo=babel&logoColor=black)
@@ -17,7 +17,6 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=Plastic&logo=npm&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=Plastic&logo=html5&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=Plastic&logo=SASS&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=Plastic&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=Plastic&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=Plastic&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=Plastic&logo=mongodb&logoColor=white)
@@ -33,7 +32,7 @@
 
 ### My contacts:
 #### - 📫 eve982@yandex.ru
-#### - 📫 Telegram eve982
+#### <img src="https://icons8.ru/icon/oWiuH0jFiU0R/телеграмма-app"> Telegram eve982
 #### 🏠 Krasnodar, Russia
 <!-- - 💞️ I’m looking to collaborate on ... -->
 

@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm Olga<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="20"/></h1>
+<h1 align="center">Hi there, I'm Olga<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="25" width="25"/></h1>
 <h3 align="center">I’m junior Fullstack-developer</h3>
 
 ### Languages and Tools:
